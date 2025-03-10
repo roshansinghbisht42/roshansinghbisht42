@@ -4,9 +4,7 @@
 
 </head>
 <body>
-    <header>
-         ##Km Seema Website
-    </header>
+  ##Km Seema Website
     <div class="container">
         <h2>Birthday Gift from me..</h2>
         <p>A simple website that shows some images and video</p>
